@@ -5,10 +5,9 @@ permalink: /about/
 ---
 
 
-I am an undergraduate student majoring in Mathematics at  
-Southern University of Science and Technology (SUSTech).
+About me: I am currently pursuing a Bachelor of Science in Mathematics at the [Southern University of Science and Technology](https://www.sustech.edu.cn/), where I am a junior student and expected to graduate in 2027.
 
-My interests include
+My research interests include
 
 - geometric topology
 - complex geometry
@@ -17,5 +16,4 @@ My interests include
 Outside of mathematics, I enjoy
 
 - volleyball
-- traveling
-- reading
+- traveling: Have been to 🇨🇳🇭🇰🇲🇾🇸🇬🇹🇭🇯🇵🇮🇳🇰🇷🇺🇸🇹🇷🇲🇴🇬🇧🇫🇷🇸🇪🇳🇱🇩🇪🇧🇪🇨🇭🇮🇹
