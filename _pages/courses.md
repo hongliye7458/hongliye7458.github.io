@@ -1,7 +1,9 @@
 ---
 layout: page
 title: Course Notes
+permalink: /courses/
 ---
+
 
 Here are some notes from courses I have taken.
 
