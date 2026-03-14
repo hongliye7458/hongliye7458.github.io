@@ -1,0 +1,15 @@
+main:
+  - title: "Home"
+    url: /
+
+  - title: "Blog"
+    url: /blog/
+
+  - title: "Course Notes"
+    url: /courses/
+
+  - title: "Seminar Notes"
+    url: /seminars/
+
+  - title: "CV"
+    url: /cv/
