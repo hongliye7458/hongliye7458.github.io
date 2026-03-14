@@ -24,4 +24,5 @@ The specific schedule of this seminar can be seen [here]{https://sustech-topolog
 Reference:
 
 Otto. Forster. – GTM81 *Lectures on Riemann Surfaces*
+
 Rick. Miranda. - *Algebraic Curves and Riemann Surfaces*
