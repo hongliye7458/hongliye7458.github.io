@@ -4,20 +4,20 @@ title: Seminar Notes
 permalink: /seminar/
 ---
 
-## Riemannian Geometry Seminar
+#### Seminar: Riemannian Geometry
+This seminar, held by Bochen Liu at SUSTech in Fall 2025, doesn't have a digital record; it mainly covers chapters 1-7 of the reference book.
 
 Reference:
 
 Do Carmo – *Riemannian Geometry*
 
-Topics:
+#### Seminar: Geometric models and their additive engineering
+The specific schedule of this seminar can be seen [here]{https://sustech-topology.github.io/undergrad/25fal}.
 
-- Levi-Civita connection
-- geodesics
-- curvature
-
-## Riemann Surfaces Seminar
+#### Seminar: Riemann Surfaces
+The specific schedule of this seminar can be seen [here]{https://sustech-topology.github.io/undergrad/}.
 
 Reference:
 
-Forster – *Lectures on Riemann Surfaces*
+Otto. Forster. – GTM81 *Lectures on Riemann Surfaces*
+Rick. Miranda. - *Algebraic Curves and Riemann Surfaces*
