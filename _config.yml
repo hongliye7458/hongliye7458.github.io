@@ -1,0 +1,13 @@
+title: Hongli Ye
+description: Mathematics student at SUSTech
+theme: minima
+
+markdown: kramdown
+kramdown:
+  math_engine: mathjax
+
+header_pages:
+  - about.md
+  - blog.md
+  - courses.md
+  - seminars.md
