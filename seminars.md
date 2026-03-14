@@ -23,7 +23,7 @@ The specific schedule of this seminar can be seen [here](https://sustech-topolog
 #### Seminar: Riemann Surfaces
 This seminar is held by [Yifei Zhu](https://yifeizhu.github.io/) at SUSTech in Spring 2026.
 
-My talk in this seminar is about [Riemann surface and basic property.pdf](\assets\pdf\Lecture_1_-_Riemann_surface_and_basic_property.pdf).
+My talk in this seminar is about [Riemann surface and basic property](\assets\pdf\Lecture_1_-_Riemann_surface_and_basic_property.pdf).
 
 The specific schedule of this seminar can be seen [here](https://sustech-topology.github.io/undergrad/).
 
