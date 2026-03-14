@@ -4,7 +4,7 @@ title: Home
 --- 
 
 
-### Welcome
+# Welcome
 
 Welcome to my personal website.
 
