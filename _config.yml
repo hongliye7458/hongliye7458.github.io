@@ -7,7 +7,7 @@ kramdown:
   math_engine: mathjax
 
 header_pages:
-  - about.md
-  - blog.md
-  - courses.md
-  - seminars.md
+  - _pages/about.md
+  - _pages/blog.md
+  - _pages/courses.md
+  - _pages/seminars.md
