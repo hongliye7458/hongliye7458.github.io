@@ -12,9 +12,13 @@ Reference:
 Do Carmo – *Riemannian Geometry*
 
 #### Seminar: Geometric models and their additive engineering
+This seminar is held by Yifei Zhu at SUSTech in Fall 2025.
+
 The specific schedule of this seminar can be seen [here]{https://sustech-topology.github.io/undergrad/25fal}.
 
 #### Seminar: Riemann Surfaces
+This seminar is held by Yifei Zhu at SUSTech in Spring 2026.
+
 The specific schedule of this seminar can be seen [here]{https://sustech-topology.github.io/undergrad/}.
 
 Reference:
