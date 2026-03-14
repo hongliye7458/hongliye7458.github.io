@@ -1,7 +1,7 @@
 ---
-layout: single
-title: "Seminar Notes"
-permalink: /seminars/
+layout: page
+title: Seminar Notes
+permalink: /seminar/
 ---
 
 ## Riemannian Geometry Seminar
