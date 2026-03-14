@@ -7,14 +7,18 @@ permalink: /courses/
 
 Here are some notes from courses I have taken.
 
-## MA215 (An introduction to ) Probability
+#### MA215 Probability (SUSTech)
+
+- [Lecture Notes](/assets/pdf/MA215_Probability.pdf)
 
 Topics:
 
 - Random Variables
 - Distribution Functions
 
-## Riemannian Geometry
+#### MAT7108 Riemannian Geometry (SUSTech)
+
+- [Lecture Notes]
 
 Topics:
 
