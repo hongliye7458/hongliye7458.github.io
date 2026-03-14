@@ -7,7 +7,7 @@ permalink: /seminar/
 #### Seminar: Riemannian Geometry
 This seminar, held by [Bochen Liu][https://math.sustech.edu.cn/c/liubochen?lang=en] at SUSTech in Fall 2025, doesn't have a digital record; it mainly covers chapters 1-7 of the reference book.
 
-My talk in this seminar is about Riemannian Metric and Levi-Civita Connections.
+My talk in this seminar is about [Riemannian Metric and Levi-Civita Connections](\assets\pdf\Minimal_Surface_and_Plateau_s_Problem).
 
 Reference:
 
