@@ -1,24 +1,14 @@
 ---
 layout: home
 title: Home
----
+--- 
 
-# Hongli Ye
-
-Undergraduate student in Mathematics  
-Southern University of Science and Technology
-
-### Research Interests
-
-- Geometric Topology
-- Complex Geometry
-- Differential Geometry
-
----
 
 ### Welcome
 
 Welcome to my personal website.
+
+  About me: I am currently pursuing a Bachelor of Science in Mathematics at the [Southern University of Science and Technology](https://www.sustech.edu.cn/), where I am a junior student and expected to graduate in 2027.
 
 Here you can find:
 
@@ -32,4 +22,3 @@ Here you can find:
 ### Links
 
 - [GitHub](https://github.com/hongliye7458)
-- [Personal Webpage](https://hongliye7458.github.io)
