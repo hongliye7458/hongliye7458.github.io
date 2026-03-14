@@ -1,8 +1,9 @@
 ---
-layout: single
-title: "About"
+layout: page
+title: About
 permalink: /about/
 ---
+
 
 I am an undergraduate student majoring in Mathematics at  
 Southern University of Science and Technology (SUSTech).
@@ -13,7 +14,7 @@ My interests include
 - complex geometry
 - differential geometry
 
-Outside mathematics, I enjoy
+Outside of mathematics, I enjoy
 
 - volleyball
 - traveling
