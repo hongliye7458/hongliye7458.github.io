@@ -8,7 +8,7 @@ kramdown:
 
 header_pages:
   - index.md
-  - _pages/about.md
-  - _pages/blog.md
-  - _pages/courses.md
-  - _pages/seminars.md
+  - about.md
+  - blog.md
+  - courses.md
+  - seminars.md
