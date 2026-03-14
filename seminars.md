@@ -5,21 +5,23 @@ permalink: /seminar/
 ---
 
 #### Seminar: Riemannian Geometry
-This seminar, held by Bochen Liu at SUSTech in Fall 2025, doesn't have a digital record; it mainly covers chapters 1-7 of the reference book.
+This seminar, held by [Bochen Liu][https://math.sustech.edu.cn/c/liubochen?lang=en] at SUSTech in Fall 2025, doesn't have a digital record; it mainly covers chapters 1-7 of the reference book.
+
+My talk in this seminar is about Riemannian Metric and Levi-Civita Connections.
 
 Reference:
 
 Do Carmo – *Riemannian Geometry*
 
 #### Seminar: Geometric models and their additive engineering
-This seminar is held by Yifei Zhu at SUSTech in Fall 2025.
+This seminar is held by [Yifei Zhu][https://yifeizhu.github.io/] at SUSTech in Fall 2025.
 
-The specific schedule of this seminar can be seen [here]{https://sustech-topology.github.io/undergrad/25fal}.
+The specific schedule of this seminar can be seen [here][https://sustech-topology.github.io/undergrad/25fal].
 
 #### Seminar: Riemann Surfaces
 This seminar is held by Yifei Zhu at SUSTech in Spring 2026.
 
-The specific schedule of this seminar can be seen [here]{https://sustech-topology.github.io/undergrad/}.
+The specific schedule of this seminar can be seen [here][https://sustech-topology.github.io/undergrad/].
 
 Reference:
 
