@@ -13,7 +13,7 @@ Here you can find:
 - My **blogs**
 - My **course notes**
 - My **seminar notes**
-- My [**CV**](/assets/pdf/Personal_CV_Acadamic)
+- My [**CV**](/assets/pdf/Personal_CV_Acadamic.pdf)
 
 ---
 
