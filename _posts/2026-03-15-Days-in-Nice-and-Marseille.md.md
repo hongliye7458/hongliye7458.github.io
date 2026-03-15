@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Days in Nice and Marseille"
-date: 2026-03-14
+date: 2026-03-15
 ---
 
 Marseille should mean a lot to me, cause this is the first city that I visit on the European mainland, well, I have been to Istanbul just the year before, but 
