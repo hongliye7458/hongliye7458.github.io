@@ -16,4 +16,4 @@ My research interests include
 Outside of mathematics, I enjoy
 
 - volleyball
-- traveling: Have been to 🇨🇳🇭🇰🇲🇾🇸🇬🇹🇭🇯🇵🇮🇳🇰🇷🇺🇸🇹🇷🇲🇴🇬🇧🇫🇷🇸🇪🇳🇱🇩🇪🇧🇪🇨🇭🇮🇹
+- traveling: Have been to 🇨🇳🇭🇰🇲🇾🇸🇬🇹🇭🇯🇵🇮🇩🇰🇷🇺🇸🇹🇷🇲🇴🇬🇧🇫🇷🇸🇪🇳🇱🇩🇪🇧🇪🇨🇭🇮🇹
