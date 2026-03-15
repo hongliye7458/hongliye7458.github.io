@@ -11,8 +11,8 @@ The first dinner I had in mainland Europe:
 
 LongChamp Palace:
 
-![Longchamp Palace](/assets/photos/2526Win-EUR/Longchamp1.jpg)
-![Longchamp Palace](/assets/photos/2526Win-EUR/Longchamp2.jpg)
+![Longchamp Palace](/assets/photos/2526Win-EUR/Longchamp1.JPG)
+![Longchamp Palace](/assets/photos/2526Win-EUR/Longchamp2.JPG)
 
 
 Nice is the city I love most. I have always wanted to see the beautiful sea since I was small.
@@ -21,8 +21,8 @@ The Côte d'Azur:
 
 Monaco:
 
-![Monaco](/assets/photos/2526Win-EUR/Monaco1.jpg)
-![Monaco](/assets/photos/2526Win-EUR/Monaco2.jpg)
+![Monaco](/assets/photos/2526Win-EUR/Monaco1.JPG)
+![Monaco](/assets/photos/2526Win-EUR/Monaco2.JPG)
 
 Antibes:
 
