@@ -10,10 +10,10 @@ Welcome to my personal website.
 
 Here you can find:
 
-- My **blog**
+- My **blogs**
 - My **course notes**
 - My **seminar notes**
-- My **CV**
+- My [**CV**](/assets/pdf/Personal_CV_Acadamic)
 
 ---
 
