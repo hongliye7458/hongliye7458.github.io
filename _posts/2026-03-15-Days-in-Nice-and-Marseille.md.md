@@ -19,6 +19,8 @@ Nice is the city I love most. I have always wanted to see the beautiful sea sinc
 
 The Côte d'Azur:
 
+![Côte d'Azur](/assets/photos/2526Win-EUR/Nice1.JPG)
+
 Monaco:
 
 ![Monaco](/assets/photos/2526Win-EUR/Monaco1.JPG)
@@ -26,3 +28,4 @@ Monaco:
 
 Antibes:
 
+![Antibes](/assets/photos/2526Win-EUR/Antibes1.JPG)
