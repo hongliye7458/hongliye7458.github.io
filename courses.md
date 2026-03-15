@@ -15,7 +15,7 @@ Here are some notes from courses I have taken.
 Topics:
 
 - Riemannian metrics
-- Geodesics
+- Geodesics and curvatures
 - Comparison Theorems
 
 
