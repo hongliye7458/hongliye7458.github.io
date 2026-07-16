@@ -8,23 +8,15 @@ permalink: /courses/
 Here are some notes from courses I have taken.
 
 
-#### MAT7108 Riemannian Geometry (SUSTech) '26 Spring
+#### Topics in High-dimension Manifold Topology (Prof. Su at Sichuan University) '26 Summer
 
 - [Lecture Notes]
 
-Topics:
+#### MAT7108 Riemannian Geometry (Prof. Ma at SUSTech) '26 Spring
 
-- Riemannian metrics
-- Geodesics and curvatures
-- Comparison Theorems
+- [Lecture Notes]
 
-
-#### MA215 Probability (SUSTech) '24 Fall
+#### MA215 Probability (Prof. Hong at SUSTech) '24 Fall
 
 - [Lecture Notes](/assets/pdf/MA215_Probability.pdf)
-
-Topics:
-
-- Random Variables
-- Distribution Functions
 
