@@ -5,13 +5,13 @@ permalink: /about/
 ---
 
 
-About me: I am currently pursuing a Bachelor of Science in Mathematics at the [Southern University of Science and Technology](https://www.sustech.edu.cn/), where I am a junior student and expected to graduate in 2027.
+About me: I am currently pursuing a Bachelor of Science in Mathematics at the [Southern University of Science and Technology](https://www.sustech.edu.cn/), since 2023.
 
-My research interests include
+My research interests include:
 
-- geometric topology
-- complex geometry
-- differential geometry
+- Geometric topology
+- Differential geometry
+- Geometric analysis
 
 Outside of mathematics, I enjoy
 
