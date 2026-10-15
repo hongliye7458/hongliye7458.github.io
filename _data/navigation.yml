@@ -1,15 +1,11 @@
 main:
-  - title: "Home"
-    url: /
-
-  - title: "Blog"
-    url: /blog/
-
+  - title: "About"
+    url: /about/
   - title: "Course Notes"
     url: /courses/
-
   - title: "Seminar Notes"
-    url: /seminars/
-
-  - title: "CV"
-    url: /cv/
+    url: /seminar/
+  - title: "Blog"
+    url: /blog/
+  - title: "CV ↗"
+    url: /assets/pdf/Personal_CV_Acadamic.pdf

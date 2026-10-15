@@ -1,7 +1,11 @@
 ---
-layout: post
+layout: single
 title: "Days in Nice and Marseille"
 date: 2026-03-15
+permalink: /2026/03/15/Days-in-Nice-and-Marseille.md.html
+excerpt: "A first visit to the European mainland, from Marseille and the Longchamp Palace to the blue waters of Nice, Monaco, and Antibes."
+header:
+  teaser: /assets/photos/2526Win-EUR/Nice1.JPG
 ---
 
 Marseille should mean a lot to me, cause this is the first city that I visit on the European mainland, well, I have been to Istanbul just the year before, but 

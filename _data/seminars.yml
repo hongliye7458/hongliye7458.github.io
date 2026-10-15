@@ -1,0 +1,30 @@
+- title: Differential Forms and Integration on Riemann Surfaces
+  date: 2026-04-03
+  pdf: /assets/pdf/Differntial_Form_and_Integration_on_Riemann_Surface.pdf
+  series: Riemann Surfaces · SUSTech · Spring 2026
+  host: Yifei Zhu
+  host_url: https://yifeizhu.github.io/
+  series_url: https://sustech-topology.github.io/undergrad/
+  description: Differential forms on real manifolds, de Rham cohomology, holomorphic and meromorphic forms, integration, free homotopy invariance, the period homomorphism, and the residue theorem.
+- title: Riemann Surfaces and Basic Properties
+  date: 2026-03-05
+  pdf: /assets/pdf/Lecture_1_-_Riemann_surface_and_basic_property.pdf
+  series: Riemann Surfaces · SUSTech · Spring 2026
+  host: Yifei Zhu
+  host_url: https://yifeizhu.github.io/
+  series_url: https://sustech-topology.github.io/undergrad/
+  description: Complex structures and examples of Riemann surfaces; holomorphic and meromorphic functions and their properties.
+- title: Minimal Surfaces and Plateau’s Problem
+  date: 2025-12-18
+  pdf: /assets/pdf/Minimal_Surface.pdf
+  series: Geometric models and their additive engineering · Fall 2025
+  host: Yifei Zhu
+  host_url: https://yifeizhu.github.io/
+  series_url: https://sustech-topology.github.io/undergrad/25fal
+- title: Riemannian Metrics and Levi-Civita Connections
+  date: 2025-09-27
+  pdf: /assets/pdf/Riemannian_Metric_and_Levi-Civita_Connection.pdf
+  series: Riemannian Geometry · SUSTech · Fall 2025
+  host: Bochen Liu
+  host_url: https://math.sustech.edu.cn/c/liubochen?lang=en
+  description: A seminar covering chapters 1–7 of do Carmo’s Riemannian Geometry. No online seminar record is available.
