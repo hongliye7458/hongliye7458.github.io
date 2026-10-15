@@ -1,5 +1,4 @@
 title: Hongli Ye
-subtitle: Mathematics & beyond
 name: Hongli Ye
 description: Mathematics student at SUSTech. Notes on geometry, topology, and life along the way.
 url: https://hongliye7458.github.io
@@ -28,13 +27,13 @@ defaults:
       path: ""
     values:
       layout: single
-      author_profile: true
+      author_profile: false
   - scope:
       path: ""
       type: posts
     values:
       layout: single
-      author_profile: true
+      author_profile: false
       read_time: true
       show_date: true
       share: false

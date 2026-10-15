@@ -1,6 +1,6 @@
 # Hongli Ye — personal website
 
-A customized Minimal Mistakes 4.28.1 academic homepage, published with GitHub Pages.
+A simple, single-column Minimal Mistakes 4.28.1 academic homepage, published with GitHub Pages.
 
 ## Update content
 
@@ -11,9 +11,8 @@ A customized Minimal Mistakes 4.28.1 academic homepage, published with GitHub Pa
 - `_posts/`: original blog articles
 - `assets/pdf/`: downloadable notes and CV
 - `assets/css/main.scss`: colors, typography, and responsive layout
-- `_includes/author-profile.html`: sidebar profile
 
-The existing PDF and blog URLs are preserved. The original `my-photo.jpg` is an empty placeholder, so the sidebar uses a typographic monogram instead.
+The existing PDF and blog URLs are preserved.
 
 ## Preview
 
