@@ -9,7 +9,7 @@ A simple, single-column Minimal Mistakes 4.28.1 academic homepage, published wit
 - `courses.md`: course notes and upload status
 - `_data/seminars.yml`: seminar entries (also shown on the homepage)
 - `_posts/`: original blog articles
-- `assets/pdf/`: downloadable notes and CV
+- `assets/pdf/`: downloadable notes
 - `assets/css/main.scss`: colors, typography, and responsive layout
 
 The existing PDF and blog URLs are preserved.

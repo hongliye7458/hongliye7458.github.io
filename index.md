@@ -8,7 +8,7 @@ I am an undergraduate student in Mathematics at the [Southern University of Scie
 
 My interests include geometric topology, differential geometry, and geometric analysis. Outside mathematics, I enjoy volleyball and traveling.
 
-[CV](/assets/pdf/Personal_CV_Acadamic.pdf) · [GitHub](https://github.com/hongliye7458) · [More about me](/about/)
+[GitHub](https://github.com/hongliye7458) · [More about me](/about/)
 
 ## Notes
 

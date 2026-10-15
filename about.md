@@ -10,8 +10,6 @@ I am pursuing a Bachelor of Science in Mathematics at the [Southern University o
 
 My interests include **geometric topology**, **differential geometry**, and **geometric analysis**. This website collects my [course notes](/courses/) and [seminar notes](/seminar/).
 
-[View my curriculum vitae](/assets/pdf/Personal_CV_Acadamic.pdf){: .primary-link }
-
 ## Beyond mathematics
 
 Outside of mathematics, I enjoy volleyball and traveling. I have visited China (including Hong Kong and Macao), Malaysia, Singapore, Thailand, Japan, Indonesia, South Korea, the United States, Türkiye, the United Kingdom, France, Sweden, the Netherlands, Germany, Belgium, Switzerland, and Italy.
