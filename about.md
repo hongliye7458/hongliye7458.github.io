@@ -12,6 +12,6 @@ My interests include **geometric topology**, **differential geometry**, and **ge
 
 ## Beyond mathematics
 
-Outside of mathematics, I enjoy volleyball and traveling. I have visited China (including Hong Kong and Macao), Malaysia, Singapore, Thailand, Japan, Indonesia, South Korea, the United States, Türkiye, the United Kingdom, France, Sweden, the Netherlands, Germany, Belgium, Switzerland, and Italy.
+Outside of mathematics, I enjoy volleyball and traveling. I have visited 🇨🇳(including 🇭🇰 and 🇲🇴), and 🇲🇾🇸🇬🇹🇭🇯🇵🇮🇩🇰🇷🇺🇸🇹🇷🇬🇧🇫🇷🇸🇪🇳🇱🇩🇪🇧🇪🇨🇭🇮🇹.
 
 My [blog](/blog/) is a place for travel experiences, observations, and everyday life.
