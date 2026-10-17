@@ -10,17 +10,17 @@ My interests include geometric topology, differential geometry, and geometric an
 
 [GitHub](https://github.com/hongliye7458) · [More about me](/about/)
 
-## Notes
+## Lecture notes
 
-I enjoy writing up my notes in LaTeX. You can find my [course notes](/courses/) and [seminar notes](/seminar/) here.
-
-Recent seminar notes:
+I enjoy writing up my notes in LaTeX. Here are notes from courses I have taken.
 
 <ul class="simple-list">
-{% for note in site.data.seminars limit:3 %}
-<li><a href="{{ note.pdf | relative_url }}">{{ note.title }}</a><span class="list-date">{{ note.date | date: "%b %-d, %Y" }}</span></li>
-{% endfor %}
+<li><a href="{{ '/assets/pdf/Topics_in_High_Dimension_Manifold_Topology.pdf' | relative_url }}">Topics in High-dimensional Manifold Topology</a><span class="list-date">Summer 2026 · Sichuan University</span></li>
+<li><a href="{{ '/assets/pdf/Introduction_to_Riemannian_Geometry.pdf' | relative_url }}">Riemannian Geometry</a><span class="list-date">Spring 2026 · SUSTech</span></li>
+<li><a href="{{ '/assets/pdf/MA215_Probability.pdf' | relative_url }}">Probability</a><span class="list-date">Fall 2024 · SUSTech</span></li>
 </ul>
+
+[All course notes](/courses/)
 
 ## Blog
 
