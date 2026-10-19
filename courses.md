@@ -4,7 +4,11 @@ title: Course notes
 permalink: /courses/
 ---
 
-I enjoy TeXing up my notes. Here are notes from courses I have taken.
+I enjoy TeXing up my notes. Here are notes from courses I have taken or am currently taking.
+
+<article class="reading-entry"><p class="entry-meta">FALL 2026 · ETH ZÜRICH</p><h2>Knot Theory</h2><p class="source-status">Ongoing — notes in progress.</p></article>
+
+<article class="reading-entry"><p class="entry-meta">FALL 2026 · UNIVERSITY OF ZÜRICH</p><h2>Algebraic Topology I</h2><p class="source-status">Ongoing — notes in progress.</p></article>
 
 <article class="reading-entry"><p class="entry-meta">SUMMER 2026 · SICHUAN UNIVERSITY</p><h2>Topics in High-dimensional Manifold Topology</h2><p>Prof. Su Yang</p><a class="text-link" href="{{ "/assets/pdf/Topics_in_High_Dimension_Manifold_Topology.pdf" | relative_url }}">Read lecture notes <span class="file-tag">PDF</span></a><p class="source-status">Updated October 16, 2026 · 50 pages.</p></article>
 

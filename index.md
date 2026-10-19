@@ -12,9 +12,11 @@ My interests include geometric topology, differential geometry, and geometric an
 
 ## Lecture notes
 
-I enjoy writing up my notes in LaTeX. Here are notes from courses I have taken.
+I enjoy writing up my notes in LaTeX. Here are notes from courses I have taken or am currently taking.
 
 <ul class="simple-list">
+<li>Knot Theory <span class="availability">(Ongoing)</span><span class="list-date">Fall 2026 · ETH Zürich</span></li>
+<li>Algebraic Topology I <span class="availability">(Ongoing)</span><span class="list-date">Fall 2026 · University of Zürich</span></li>
 <li><a href="{{ '/assets/pdf/Topics_in_High_Dimension_Manifold_Topology.pdf' | relative_url }}">Topics in High-dimensional Manifold Topology</a><span class="list-date">Summer 2026 · Sichuan University</span></li>
 <li><a href="{{ '/assets/pdf/Introduction_to_Riemannian_Geometry.pdf' | relative_url }}">Riemannian Geometry</a><span class="list-date">Spring 2026 · SUSTech</span></li>
 <li><a href="{{ '/assets/pdf/MA215_Probability.pdf' | relative_url }}">Probability</a><span class="list-date">Fall 2024 · SUSTech</span></li>
