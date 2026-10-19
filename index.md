@@ -6,6 +6,8 @@ excerpt: Mathematics undergraduate at SUSTech.
 
 I am an undergraduate student in Mathematics at the [Southern University of Science and Technology](https://www.sustech.edu.cn/), where I began my B.Sc. in 2023.
 
+During the Fall 2026 semester, I am a visiting student at the University of Zürich.
+
 My interests include geometric topology, differential geometry, and geometric analysis. Outside mathematics, I enjoy volleyball and traveling.
 
 [GitHub](https://github.com/hongliye7458) · [More about me](/about/)
