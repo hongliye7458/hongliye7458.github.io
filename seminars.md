@@ -13,5 +13,6 @@ permalink: /seminar/
 <p class="entry-series">{% if note.series_url %}<a href="{{ note.series_url }}">{{ note.series }}</a>{% else %}{{ note.series }}{% endif %}<br>Organized by <a href="{{ note.host_url }}">{{ note.host }}</a></p>
 {% if note.description %}<p>{{ note.description }}</p>{% endif %}
 <a class="text-link" href="{{ note.pdf | relative_url }}">Read notes <span class="file-tag">PDF</span></a>
+{% if note.updated %}<p class="source-status">Updated {{ note.updated | date: "%B %-d, %Y" }}{% if note.pages %} · {{ note.pages }} pages{% endif %}.</p>{% endif %}
 </article>
 {% endfor %}
