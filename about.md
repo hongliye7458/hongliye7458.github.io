@@ -14,6 +14,6 @@ My interests include **geometric topology**, **differential geometry**, and **ge
 
 ## Beyond mathematics
 
-Outside of mathematics, I enjoy volleyball and traveling. I have visited 🇨🇳(including 🇭🇰 and 🇲🇴), and 🇲🇾🇸🇬🇹🇭🇯🇵🇮🇩🇰🇷🇺🇸🇹🇷🇬🇧🇫🇷🇸🇪🇳🇱🇩🇪🇧🇪🇨🇭🇮🇹.
+Outside of mathematics, I enjoy volleyball and traveling. I have visited 🇨🇳(including 🇭🇰 and 🇲🇴), and 🇲🇾🇸🇬🇹🇭🇯🇵🇮🇩🇰🇷🇺🇸🇹🇷🇬🇧🇫🇷🇸🇪🇳🇱🇩🇪🇧🇪🇨🇭🇮🇹🇩🇰🇱🇻.
 
 My [blog](/blog/) is a place for travel experiences, observations, and everyday life.
